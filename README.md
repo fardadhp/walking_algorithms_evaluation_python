@@ -8,3 +8,5 @@ The python version is implemented using two different approaches:
 - vector-based:
 
 Note: Collision avoidance is not implemented in this version.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fardadhp/walking_algorithms_evaluation_python/master)
