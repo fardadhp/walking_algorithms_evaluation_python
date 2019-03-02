@@ -1,0 +1,4 @@
+matplotlib==3.*
+numpy==1.15.*
+tkinter==8.6.*
+IPython==6.5.*
