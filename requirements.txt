@@ -1,2 +1,4 @@
 matplotlib==3.*
 numpy==1.*
+shapely==1.6.*
+descartes==1.1.*
