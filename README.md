@@ -13,4 +13,4 @@ Try it online (without GUI): [![Binder](https://mybinder.org/badge_logo.svg)](ht
 
 [Reference paper](https://arxiv.org/ftp/arxiv/papers/1801/1801.09604.pdf)
 
-<a href="https://arxiv.org/ftp/arxiv/papers/1801/1801.09604.pdf" target="_blank">example</a>
+[link](https://arxiv.org/ftp/arxiv/papers/1801/1801.09604.pdf){:target="_blank"}
